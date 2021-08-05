@@ -51,6 +51,7 @@ body {
 .section-title {
     /* background-color: indigo;*/
     margin: 2rem 0;
+    text-transform: capitalize;
 }
 
 .products-center {
